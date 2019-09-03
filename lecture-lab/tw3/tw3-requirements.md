@@ -14,26 +14,26 @@
 
 ## Functional requirements
 1. Photographers
-    a. Must be able to upload images
-    b. Must be able to delete images
-    c. Must be able to edit the images
-    d. Must be able to create and delete folders
-    e. Must be able to rename images
-    f. Must be able to download images or image folders
-    g. Must be able to enter information about each photo
+    i. Must be able to upload images
+    ii. Must be able to delete images
+    iii. Must be able to edit the images
+    iv. Must be able to create and delete folders
+    v. Must be able to rename images
+    vi. Must be able to download images or image folders
+    vii. Must be able to enter information about each photo
 2. Editor
-    a. Must be able to download images or folders
-    b. Must be able to edit images and folders
-    c. Must be able to rename images or folders
-    d. Must be able to move images into and out of folders
-    e. Must be able to view who uploaded each image
-    f. Must be able to view the edit history of the database
-    g. Must be able to set an image to public or private
+    i. Must be able to download images or folders
+    ii. Must be able to edit images and folders
+    iii. Must be able to rename images or folders
+    iv. Must be able to move images into and out of folders
+    v. Must be able to view who uploaded each image
+    vi. Must be able to view the edit history of the database
+    vii. Must be able to set an image to public or private
 3. Journalists
-    a. Must be able to view images
-    b. Must be able to download images
+    i. Must be able to view images
+    ii. Must be able to download images
 4. Readers
-    a. Must be able to view images
-    b. Must be able to read public description
+    i. Must be able to view images
+    ii. Must be able to read public description
  5. General 
-    a. Must have a public view that readers can access and a login view that employees can access
+    i. Must have a public view that readers can access and a login view that employees can access
