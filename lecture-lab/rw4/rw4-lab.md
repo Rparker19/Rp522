@@ -4,11 +4,11 @@
 2. ER diagram found at kaitlynzahn/kmzgm8/lecture-labs/rw4/IMG_1041.HEIC
 
 ## Group Plan
-###When
+### When
 	- Monday 4pm-6pm, Tuesday 3:15pm-6pm
 	- Additional work individually if needed
-###How
+### How
 	- Draw.io
-###Where
+### Where
 	- Student Center, Lafferre
 
