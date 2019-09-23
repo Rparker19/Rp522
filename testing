@@ -1,0 +1,7 @@
+import pytest
+
+
+def test_remove_TA():
+  TA_list = ["TA 1", TA 2"]
+  removeTA("TA 2")
+  assert "TA 2" not in TA_list
